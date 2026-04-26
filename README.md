@@ -1,8 +1,13 @@
-# 🤖 ML Educational Notebooks Collection
+<h1 align="center">🤖 ML Educational Notebooks Collection</h1>
 
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
-[![ML](https://img.shields.io/badge/Focus-Machine%20Learning-orange.svg)]()
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.8%2B-blue.svg" alt="Python">
+  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-orange.svg" alt="ML">
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
+  </a>
+</p>
 
 Welcome to the **ML Educational Notebooks** repository! This collection is designed to provide clear, step-by-step tutorials on various Machine Learning algorithms and data science concepts.
 
@@ -25,7 +30,7 @@ To run these notebooks locally, follow these steps:
 1. **Clone the repo:**
    ```bash
    git clone https://github.com/HosseinHeydari2004/ML-Tutorial-Notebooks-Collection.git
-   
+   ```
 
 2. *Install dependencies:
    pip install -r requirements.txt
