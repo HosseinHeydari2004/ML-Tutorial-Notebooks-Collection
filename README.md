@@ -2,6 +2,12 @@
 
 
 <p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_v2.svg/1200px-Scikit_learn_logo_v2.svg.png" alt="Machine Learning Logo" width="150">
+</p>
+
+
+
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3.8%2B-blue.svg" alt="Python">
   <img src="https://img.shields.io/badge/Focus-Machine%20Learning-orange.svg" alt="ML">
   <a href="https://opensource.org/licenses/MIT">
@@ -39,18 +45,16 @@ The goal of this repository is to bridge the gap between abstract theory and rea
 
 ---
 
-## 📌 Project Overview
-The goal of this repository is to bridge the gap between theory and implementation. Each notebook contains:
-- 📖 **Theory:** A brief explanation of the concepts.
-- 💻 **Code:** Clean and documented Python implementation.
-- 📊 **Visualization:** Insightful plots to understand data and model behavior.
 
 ## 📂 Repository Structure
 The notebooks are organized by topic:
-- `01_Pre_Processing/`: Data cleaning and feature engineering.
-- `02_Supervised_Learning/`: Regression, SVM, Random Forest, etc.
-- `03_Unsupervised_Learning/`: Clustering and PCA.
-- `04_Neural_Networks/`: Introduction to Deep Learning.
+- `01_Introduction_to_Python/`: Concepts of the Python Language.
+- `02_Mathematics/`: Statistical Concepts, Linear Algebra (including Matrices), and Optimization,etc
+- `03_Data_Science/`: Data Science concepts including handling noise and missing values, data visualization, etc
+- `04_Supervised_Learning/`: Regression, evaluation methods for supervised learning algorithms, decision trees, random forest, and support vector machines,etc
+- `05_Unsupervised_Learning/`: Unsupervised Learning concepts including clustering, PCA (Principal Component Analysis), and methods for evaluating unsupervised learning algorithms, etc.
+- `06_Introduction_to_Reinforcement_Learning`: Basic Concepts of Reinforcement Learning
+- `07_Introduction_to_Neural_network`: Basic Concepts of Neural network
 
 ## 🛠️ Requirements & Installation
 To run these notebooks locally, follow these steps:
@@ -61,7 +65,9 @@ To run these notebooks locally, follow these steps:
    ```
 
 2. *Install dependencies:
-   pip install -r requirements.txt
+    ```bash
+    pip install -r requirements.txt
+    ```
    
 
 3. Launch Jupyter:
