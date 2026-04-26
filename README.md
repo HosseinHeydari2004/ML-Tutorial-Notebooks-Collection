@@ -2,13 +2,13 @@
 
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_v2.svg/1200px-Scikit_learn_logo_v2.svg.png" alt="Machine Learning Logo" width="150">
+  <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" alt="Machine Learning" width="120">
 </p>
 
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.8%2B-blue.svg" alt="Python">
+  <img src="https://img.shields.io/badge/Python-3.13%2B-blue.svg" alt="Python">
   <img src="https://img.shields.io/badge/Focus-Machine%20Learning-orange.svg" alt="ML">
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
