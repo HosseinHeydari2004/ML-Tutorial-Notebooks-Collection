@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.13%2B-blue.svg" alt="Python">
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter" alt="Jupyter Notebook" height="25">
   <img src="https://img.shields.io/badge/Focus-Machine%20Learning-orange.svg" alt="ML">
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
