@@ -56,6 +56,8 @@ The notebooks are organized by topic:
 - `06_Introduction_to_Reinforcement_Learning`: Basic Concepts of Reinforcement Learning
 - `07_Introduction_to_Neural_network`: Basic Concepts of Neural network
 
+---
+
 ## 🛠️ Requirements & Installation
 To run these notebooks locally, follow these steps:
 
@@ -72,6 +74,8 @@ To run these notebooks locally, follow these steps:
 
 3. Launch Jupyter:
    jupyter notebook
+
+---
    
 
 ## 🚀 Key Libraries Used
@@ -79,6 +83,21 @@ To run these notebooks locally, follow these steps:
 - Matplotlib & Seaborn for visualization.
 - Scikit-Learn for ML algorithms.
 - TensorFlow/PyTorch (optional) for deep learning.
+
+---
+
+## 🤝 Contribution
+
+Contributions, suggestions, and feedback are welcome.
+
+If you'd like to contribute:
+
+1.  Fork the repository
+2.  Create a feature branch
+3.  Commit your changes
+4.  Open a Pull Request
+
+---
 
 ## 📝 Author
 Created with ❤️ by Hossein Heydari. 
