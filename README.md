@@ -55,7 +55,7 @@ The notebooks are organized by topic:
 - `05_Unsupervised_Learning/`: Unsupervised Learning concepts including clustering, PCA (Principal Component Analysis), and methods for evaluating unsupervised learning algorithms, etc.
 - `06_Introduction_to_Reinforcement_Learning`: Basic Concepts of Reinforcement Learning
 - `07_Introduction_to_Neural_network`: Basic Concepts of Neural network
-- `08_Advanced Topics 1`
+- `08_Advanced_Topics1`
 
 ---
 
